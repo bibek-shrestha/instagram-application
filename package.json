@@ -1,0 +1,27 @@
+{
+  "name": "instagram-application",
+  "version": "1.0.0",
+  "description": "Test node application to connect to the instagram API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibek-shrestha/instagram-application.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Bibek Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibek-shrestha/instagram-application/issues"
+  },
+  "homepage": "https://github.com/bibek-shrestha/instagram-application#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "instagram-node": "^0.5.8"
+  }
+}
